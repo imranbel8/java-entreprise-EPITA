@@ -1,0 +1,10 @@
+org/formation/mapper/CoffeeMapperImpl.class
+org/formation/dto/CoffeeCreateDto.class
+org/formation/service/CoffeeServiceImpl.class
+org/formation/controller/CoffeeController.class
+org/formation/repository/CoffeeRepository.class
+org/formation/mapper/CoffeeMapper.class
+org/formation/dto/CoffeeDto.class
+org/formation/CoffeeMachineApplication.class
+org/formation/service/CoffeeService.class
+org/formation/entity/Coffee.class
